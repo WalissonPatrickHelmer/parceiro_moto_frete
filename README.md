@@ -135,31 +135,31 @@ Inclui:
 # 📂 Estrutura do Projeto
 
 
+```text
 PARCEIRO_MOTO_FRETE/
 
 │
 ├── img/
-│ ├── imagens utilizadas na landing page
-│ └── arquivos visuais do projeto
+│   └── Imagens utilizadas na Landing Page
 │
 ├── index.html
-│ └── Estrutura principal da Landing Page
+│   └── Estrutura principal da Landing Page
 │
 ├── style.css
-│ └── Estilos visuais, responsividade e animações CSS
+│   └── Estilos visuais, responsividade e animações CSS
 │
 ├── script.js
-│ └── Interações da página, efeitos e funcionalidades JavaScript
+│   └── Interações da página, efeitos e funcionalidades JavaScript
 │
 ├── README.md
-│ └── Documentação do projeto
+│   └── Documentação do projeto
 │
 ├── LICENSE
-│ └── Licença de uso do projeto
+│   └── Licença de uso do projeto
 │
 └── .gitignore
-└── Arquivos ignorados pelo Git
-
+    └── Arquivos ignorados pelo Git
+```
 
 ---
 
@@ -169,24 +169,24 @@ A pasta **img/** contém todos os recursos visuais utilizados no projeto.
 
 Exemplo de organização:
 
-
+```text
 img/
 
 │
 ├── hero/
-│ └── imagem principal do motoboy
+│   └── imagem principal do motoboy
 │
-├── servicos/
-│ ├── entregas
-│ ├── encomendas
-│ └── documentos
+├── serviços/
+│   ├── entregas
+│   ├── encomendas
+│   └── documentos
 │
 ├── backgrounds/
-│ └── imagens de fundo das seções
+│   └── imagens de fundo das seções
 │
 └── icones/
-└── elementos visuais da interface
-
+    └── elementos visuais da interface
+```
 
 ---
 
